@@ -30,5 +30,13 @@
 - Implementación de lógica estadística para datos normalizados.
 - Cálculo de porcentaje de infracciones para fecha 1932-01-01.
 - Cálculo de porcentaje de infracciones para hora 00:00.
+<<<<<<< HEAD
 =======
 >>>>>>> f37a63c (Ejercicio 03: Finalización de limpieza y normalización con Pandas)
+=======
+
+## [2026-04-21] - Punto 07
+- Redacción y anexo de conclusiones finales en README.md.
+- Finalización de las tareas de análisis estadístico y visualización.
+- Cierre del Sprint 1.
+>>>>>>> 77f2806 (Punto 07: Documentación de conclusiones y cierre del Sprint 1)
