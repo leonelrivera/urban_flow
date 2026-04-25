@@ -24,3 +24,8 @@
 - Implementación de visualizaciones estadísticas con Matplotlib.
 - Exportación de gráficos JPG (fines, hours, months, hour, date).
 - Análisis visual de reincidencia, temporalidad y datos normalizados.
+
+## [2026-04-22] - Punto 06
+- Implementación de lógica estadística para datos normalizados.
+- Cálculo de porcentaje de infracciones para fecha 1932-01-01.
+- Cálculo de porcentaje de infracciones para hora 00:00.
