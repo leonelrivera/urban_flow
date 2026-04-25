@@ -19,3 +19,8 @@
 - Creación de métodos de ranking para patentes y horarios (Top 5).
 - Cálculo de métricas promedio de exceso de velocidad.
 - Agrupación de multas por ubicación geográfica.
+
+## [2026-04-21] - Punto 05
+- Implementación de visualizaciones estadísticas con Matplotlib.
+- Exportación de gráficos JPG (fines, hours, months, hour, date).
+- Análisis visual de reincidencia, temporalidad y datos normalizados.
