@@ -13,6 +13,7 @@
 - Eliminación de nulos y outliers de velocidad.
 - Creación de columnas de cálculo de exceso (real y margen 5%).
 - Guardado de dataset procesado en data/interim.
+<<<<<<< HEAD
 
 ## [2026-04-25] - Ejercicio 04
 - Implementación de la clase FineAnalyzer para encapsulamiento de lógica.
@@ -29,3 +30,5 @@
 - Implementación de lógica estadística para datos normalizados.
 - Cálculo de porcentaje de infracciones para fecha 1932-01-01.
 - Cálculo de porcentaje de infracciones para hora 00:00.
+=======
+>>>>>>> f37a63c (Ejercicio 03: Finalización de limpieza y normalización con Pandas)
