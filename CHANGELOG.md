@@ -44,3 +44,5 @@
 - **20-05-26 Ejercicio 01**: Configuración inicial de ramas de Git y descarga de imágenes.
 
 - **21-05-26 Ejercicio 02**: Generación de group_images.json y visualización del grid de imágenes.
+
+- **22-05-26 Ejercicio 03**: Tratamiento de imágenes: Escala de grises, Blur y Canny.
