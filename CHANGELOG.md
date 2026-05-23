@@ -46,3 +46,5 @@
 - **21-05-26 Ejercicio 02**: Generación de group_images.json y visualización del grid de imágenes.
 
 - **22-05-26 Ejercicio 03**: Tratamiento de imágenes: Escala de grises, Blur y Canny.
+
+- **23-05-26 Ejercicio 04**: Extracción con EasyOCR empleando máscaras morfológicas y match con el dataset con ratio >= 80%.
