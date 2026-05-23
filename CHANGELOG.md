@@ -50,3 +50,5 @@
 - **23-05-26 Ejercicio 04**: Extracción con EasyOCR empleando máscaras morfológicas y match con el dataset con ratio >= 80%.
 
 - **24-05-26 Ejercicio 05**: Cálculo de métricas operativas de control de evidencia e infracciones pendientes.
+
+- **25-05-26 Ejercicio 06**: Conclusion.
