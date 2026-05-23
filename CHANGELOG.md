@@ -40,3 +40,5 @@
 - Finalización de las tareas de análisis estadístico y visualización.
 - Cierre del Sprint 1.
 >>>>>>> 77f2806 (Punto 07: Documentación de conclusiones y cierre del Sprint 1)
+
+- **20-05-26 Ejercicio 01**: Configuración inicial de ramas de Git y descarga de imágenes.
