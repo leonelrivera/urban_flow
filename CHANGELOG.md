@@ -48,3 +48,5 @@
 - **22-05-26 Ejercicio 03**: Tratamiento de imágenes: Escala de grises, Blur y Canny.
 
 - **23-05-26 Ejercicio 04**: Extracción con EasyOCR empleando máscaras morfológicas y match con el dataset con ratio >= 80%.
+
+- **24-05-26 Ejercicio 05**: Cálculo de métricas operativas de control de evidencia e infracciones pendientes.
