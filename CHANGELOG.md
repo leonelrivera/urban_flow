@@ -42,3 +42,5 @@
 >>>>>>> 77f2806 (Punto 07: Documentación de conclusiones y cierre del Sprint 1)
 
 - **20-05-26 Ejercicio 01**: Configuración inicial de ramas de Git y descarga de imágenes.
+
+- **21-05-26 Ejercicio 02**: Generación de group_images.json y visualización del grid de imágenes.
