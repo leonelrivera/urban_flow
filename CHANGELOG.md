@@ -54,3 +54,5 @@
 - **25-05-26 Ejercicio 06**: Conclusion.
 
 - **06-06-26 Ejercicio 01**: Inicialización de rama Sprint_3 y verificación de datasets previos.
+
+- **07-06-26 Ejercicio 02**: Inicialización de DVC y migración de datasets masivos y binarios.
