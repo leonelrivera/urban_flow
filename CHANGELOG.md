@@ -62,3 +62,5 @@
 - **09-06-26 Ejercicio 04**: Implementación de la función para el mapeo de filas CSV.
 
 - **10-06-26 Ejercicio 05**: Definición de modelos relacionales mapeados mediante SQLAlchemy ORM.
+
+- **11-06-26 Ejercicio 06**: Migración masiva de datos y poblado de la base de datos relacional.
