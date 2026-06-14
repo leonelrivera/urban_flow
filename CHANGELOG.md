@@ -52,3 +52,5 @@
 - **24-05-26 Ejercicio 05**: Cálculo de métricas operativas de control de evidencia e infracciones pendientes.
 
 - **25-05-26 Ejercicio 06**: Conclusion.
+
+- **06-06-26 Ejercicio 01**: Inicialización de rama Sprint_3 y verificación de datasets previos.
