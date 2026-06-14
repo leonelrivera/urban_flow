@@ -68,3 +68,5 @@
 - **12-06-26 Ejercicio 07**: Implementación de consultas de negocio y métricas analíticas.
 
 - **13-06-26 Ejercicio 08**: Inicialización y poblado de la base de datos vectorial ChromaDB.
+
+- **14-06-26 Ejercicio 09**: Función de búsqueda avanzada e integración híbrida relacional-vectorial.
