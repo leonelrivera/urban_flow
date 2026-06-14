@@ -70,3 +70,5 @@
 - **13-06-26 Ejercicio 08**: Inicialización y poblado de la base de datos vectorial ChromaDB.
 
 - **14-06-26 Ejercicio 09**: Función de búsqueda avanzada e integración híbrida relacional-vectorial.
+
+- **14-06-26 Ejercicio 10**: Redacción de la conclusión final del Sprint 3 y actualización del README.
